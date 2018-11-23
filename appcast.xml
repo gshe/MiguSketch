@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>MiguSketch</title>
+        <link>https://gshe.github.io/MiguSketch/appcast</link>
+        <description>gshe</description>
+         <item>
+            <title>0.5.0</title>
+            <enclosure url="https://gw.alipayobjects.com/os/rmsportal/kovfCyfXsboapiRZhwNh.zip" sparkle:version="2.0.9" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
