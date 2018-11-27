@@ -1,19 +1,19 @@
 {
-  "last": "0511",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTMwOTAzCg.zip",
-  "md5":"d4e514cf1a6c78089afb13bc265bbd79",
-  "sha1":"92ed850fb46d74050814266f2fe148244abeb692",
-  "0511": {
-    "version": "0.5.11",
+  "last": "0512",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTMzMjUwCg.zip",
+  "md5":"053cf06216633668f0b0ea41b4d0fdd8",
+  "sha1":"613be5c8e70bb6ef24e56c0714f4899b6820bfe3",
+  "0512": {
+    "version": "0.5.12",
     "feature": [
-      "1.",
+      "1.模板
+文件[i]",
       "1.模板",
       "2.文件",
     ],
     "bugfix": [
-      "3.模",
-      "4.板",
-      "5.文件",
+      "3.模板",
+      "4.文件",
     ]
   }
 }
