@@ -1,15 +1,17 @@
 {
-  "last": "057",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTIxMjU1Cg.zip",
-  "md5":"7284f240252523a73babdcafde83dae8",
-  "sha1":"d6c0c9d20e4f6b45949a5b91c03dee50c6f6909f",
-  "057": {
-    "version": "0.5.7",
+  "last": "058",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTIxNDQxCg.zip",
+  "md5":"56e3374c71d591178f00c306a9d04945",
+  "sha1":"71f6255222626cfb7afaceb30e68bd6ee92ae9a9",
+  "058": {
+    "version": "0.5.8",
     "feature": [
-      "1.模板 文 件"
+      "1."
+      "2."
     ],
     "bugfix": [
-      "1.新功 能列 表"
+      "3."
+      "4."
     ]
   }
 }
