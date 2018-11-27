@@ -1,15 +1,15 @@
 {
-  "last": "055",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTE0MTU0Cg.zip",
-  "md5":"eeb53df9d21445faba4ad2e8b008fac7",
-  "sha1":"31513843b7ed68c61050c383f1248a0fd197b93d",
-  "055": {
-    "version": "0.5.5",
+  "last": "056",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTE1NjQyCg.zip",
+  "md5":"157cae2445a17cd878a3e8e32f7f76e6",
+  "sha1":"af1c6e377a209771a3873daac566068c87325894",
+  "056": {
+    "version": "0.5.6",
     "feature": [
-      "1.新需求"
+      "1.shell中echo 输出换行的方法"
     ],
     "bugfix": [
-      "1.bugfix"
+      "1.测试 方法"
     ]
   }
 }
