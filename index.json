@@ -1,17 +1,19 @@
 {
-  "last": "0519",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTQ1MDI0Cg.zip",
-  "md5":"64d77a2dfed728a984f00a6973bd04f4",
-  "sha1":"dfc87676d19d6ccd766c3e53d370b4169f2abaed",
-  "0519": {
-    "version": "0.5.19",
+  "last": "0520",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTQ1MzA4Cg.zip",
+  "md5":"2936e0ea36eabd38e74519bc2453c5ac",
+  "sha1":"6dddf3f461535f759bf16dd225eccb8abd3ceb4b",
+  "0520": {
+    "version": "0.5.20",
     "feature": [
-      "2.文件",
-      "3.文件"
+      "1.新需求2",
+      "2.新需求3",
+      "3.新需求3"
     ],
     "bugfix": [
-      "4.文件",
-      "5.文件"
+      "4.修复bug1",
+      "5.修复bug2",
+      "6.修复bug2"
     ]
   }
 }
