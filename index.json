@@ -1,16 +1,15 @@
 {
-  "last": "050",
-  "url": "https://gshe.github.io/MiguSketch/release/V5ZCnKDQwMDEp.zip",
-  "md5":"d2ef2b78be2dce38e8bd2f03dadb18d4",
-  "sha1":"6851cf0c29320c9026033cc4d84dd468cb32879e",
-  "050": {
-    "version": "0.5.0",
+  "last": "051",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTAwMzUwCg.zip",
+  "md5":"712658220b7db2d4c987c4f803f8bcfe",
+  "sha1":"47aaabfb61916a325639fb161ec2f2ac0c26ef79",
+  "051": {
+    "version": "0.5.1",
     "feature": [
-      "1.组件库界面升级"
+      "1.内部测试版本"
     ],
     "bugfix": [
-      "2.Sketch拖拽优化",
-      "3.其它兼容性问题修复"
+      "1.bugfix"
     ]
   }
 }
