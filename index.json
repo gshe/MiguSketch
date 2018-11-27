@@ -1,14 +1,11 @@
 {
-  "last": "0514",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTQxNTUzCg.zip",
-  "md5":"d32d860057dc3b9d0b9cd70d04037467",
-  "sha1":"be4a4d8290540901222e5ed960705c211a53b12e",
-  "0514": {
-    "version": "0.5.14",
+  "last": "0515",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTQyMDM5Cg.zip",
+  "md5":"2c0d380189e441e700b4d11c692a83e9",
+  "sha1":"b014a99bd647837a110e75c70915cc4a7891d4ce",
+  "0515": {
+    "version": "0.5.15",
     "feature": [
-      "1.1模板
-2文件
-3存储",
       "1.1模板",
       "2.2文件",
       "3.3存储",
