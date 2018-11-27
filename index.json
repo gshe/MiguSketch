@@ -1,17 +1,16 @@
 {
-  "last": "0620",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTUyMjI5Cg.zip",
-  "md5":"25700b964d25b223be3ebfe481eadb71",
-  "sha1":"4a2a63092d311276320c4784814c4a2ef7abc4ad",
-  "0620": {
-    "version": "0.6.20",
+  "last": "0720",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODExMjdfMTcwNTU2Cg.zip",
+  "md5":"67800b70ebb605c5f1f6fc2de973aacb",
+  "sha1":"0cf9f2f1bb6a033ef50fb38ccd6e15509302d9b0",
+  "0720": {
+    "version": "0.7.20",
     "feature": [
-      "1.需求2",
-      "2.需求2"
+      "1.更新逻辑"
     ],
     "bugfix": [
-      "3.测试2",
-      "4.测试2"
+      "2.解决无法退出的问题",
+      "3.解决无法退出的问题"
     ]
   }
 }
