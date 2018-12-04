@@ -1,16 +1,16 @@
 {
-  "last": "092",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMDRfMTUxMDQ0Cg.zip",
-  "md5":"8904723d6fbbbe72ba56b0f70d4fd52b",
-  "sha1":"6fe5522e23798c48fecbf18eb395c3f2b301a9c4",
-  "092": {
-    "version": "0.9.2",
+  "last": "093",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMDRfMTUyMDA2Cg.zip",
+  "md5":"755df9e19371c82d7a281daf8b2e6b29",
+  "sha1":"4f47b4dbd4f647a68b60e95cea7322d8a87bd548",
+  "093": {
+    "version": "0.9.3",
     "feature": [
-      "1.新需求2",
+      "1.新需求1",
       "2.新需求2"
     ],
     "bugfix": [
-      "3.bugfix2",
+      "3.bugfix1",
       "4.bugfix2"
     ]
   }
