@@ -1,15 +1,15 @@
 {
-  "last": "095",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMDdfMTEwODMwCg.zip",
-  "md5":"12f04532f5cbc115eb098bd8b87d182d",
-  "sha1":"415116a1df1e0d8322ed5029c652d87c6e20cda1",
-  "095": {
-    "version": "0.9.5",
+  "last": "096",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMDdfMTYxNjMzCg.zip",
+  "md5":"fc99db11419905252976c20ffcbd71f2",
+  "sha1":"5eec4fa30bb0aa590ebd034af8b0dc0ef98f95a5",
+  "096": {
+    "version": "0.9.6",
     "feature": [
-      "1.最新版本提示"
+      "1.修改弹窗位置"
     ],
     "bugfix": [
-      "2.修复bug"
+      "2.修复一些bug"
     ]
   }
 }
