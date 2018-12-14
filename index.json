@@ -1,12 +1,12 @@
 {
-  "last": "098",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMTBfMDk0MzIwCg.zip",
-  "md5":"f81e57412c4009f1604432b88e728856",
-  "sha1":"aac891146e639e06419e80f47c8381f1baead99c",
-  "098": {
-    "version": "0.9.8",
+  "last": "0910",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMTRfMTkyNzUwCg.zip",
+  "md5":"eb4ee4e249adcf0634d427b1c4d12575",
+  "sha1":"dcff94293d44bca696b4266ba7b3d4db781b9103",
+  "0910": {
+    "version": "0.9.10",
     "feature": [
-      "1.修复关闭文档没有关闭面板问题"
+      "1.新组件文件"
     ],
     "bugfix": [
       "2.修复已知bug"
