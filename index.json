@@ -1,16 +1,16 @@
 {
-  "last": "0911",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjZfMTcyOTIwCg.zip",
-  "md5":"5fbb3f48fd6ddc403b18e2d44a9cb103",
-  "sha1":"ea29fc9f5b050ec1e2965624061fa71ee5819b08",
-  "0911": {
-    "version": "0.9.11",
+  "last": "0912",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjZfMTc0MTU3Cg.zip",
+  "md5":"d82393c905c18157fb14a9c3e4e99f43",
+  "sha1":"e39e12b531ee6267e0d7b7b78bbe28a6e15a8990",
+  "0912": {
+    "version": "0.9.12",
     "feature": [
-      "1.1.新UI",
-      "2.2.同类组件归类"
+      "1.新UI",
+      "2.组件归类"
     ],
     "bugfix": [
-      "3.1.修复bug"
+      "3.修复bug"
     ]
   }
 }
