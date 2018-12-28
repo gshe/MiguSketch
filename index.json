@@ -1,16 +1,15 @@
 {
-  "last": "0912",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjZfMTc0MTU3Cg.zip",
-  "md5":"d82393c905c18157fb14a9c3e4e99f43",
-  "sha1":"e39e12b531ee6267e0d7b7b78bbe28a6e15a8990",
-  "0912": {
-    "version": "0.9.12",
+  "last": "0913",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTUzMzMzCg.zip",
+  "md5":"38f621ffb023798eba3ee8fc30b18664",
+  "sha1":"99472c7569c221bc144e00fe71fac93b68992b46",
+  "0913": {
+    "version": "0.9.13",
     "feature": [
-      "1.新UI",
-      "2.组件归类"
+      "1.组件可选属性"
     ],
     "bugfix": [
-      "3.修复bug"
+      "2.解决配色问题"
     ]
   }
 }
