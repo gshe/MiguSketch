@@ -1,15 +1,16 @@
 {
-  "last": "0914",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTg1NjM3Cg.zip",
-  "md5":"b88dca2e88cd666bd8d0e430b5bcb27b",
-  "sha1":"15609fc301aeda5e698c5f11b2ec6b59c75a444b",
-  "0914": {
-    "version": "0.9.14",
+  "last": "0915",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTkxOTQxCg.zip",
+  "md5":"502ebbd2f0ac38362fa4c36054fa2298",
+  "sha1":"a1844831c81091cfc3b50e734b3d451fa670ca71",
+  "0915": {
+    "version": "0.9.15",
     "feature": [
-      "1.同步修改层名字"
+      "1.替换关闭按钮",
+      "2.修改分割线条颜色"
     ],
     "bugfix": [
-      "2.修复已知bug"
+      "3.修复一直bug"
     ]
   }
 }
