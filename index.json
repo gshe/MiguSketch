@@ -1,15 +1,15 @@
 {
-  "last": "0913",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTUzMzMzCg.zip",
-  "md5":"38f621ffb023798eba3ee8fc30b18664",
-  "sha1":"99472c7569c221bc144e00fe71fac93b68992b46",
-  "0913": {
-    "version": "0.9.13",
+  "last": "0914",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTg1NjM3Cg.zip",
+  "md5":"b88dca2e88cd666bd8d0e430b5bcb27b",
+  "sha1":"15609fc301aeda5e698c5f11b2ec6b59c75a444b",
+  "0914": {
+    "version": "0.9.14",
     "feature": [
-      "1.组件可选属性"
+      "1.同步修改层名字"
     ],
     "bugfix": [
-      "2.解决配色问题"
+      "2.修复已知bug"
     ]
   }
 }
