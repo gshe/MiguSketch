@@ -1,16 +1,15 @@
 {
-  "last": "0915",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjhfMTkxOTQxCg.zip",
-  "md5":"502ebbd2f0ac38362fa4c36054fa2298",
-  "sha1":"a1844831c81091cfc3b50e734b3d451fa670ca71",
-  "0915": {
-    "version": "0.9.15",
+  "last": "0916",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxODEyMjlfMTkzNzMyCg.zip",
+  "md5":"f2dc2d1eefbe22eb2db465f81b66c98c",
+  "sha1":"94d99ec7c1c1af718a1d9c6da8ff758f944e6270",
+  "0916": {
+    "version": "0.9.16",
     "feature": [
-      "1.替换关闭按钮",
-      "2.修改分割线条颜色"
+      "1.ArtboartTricks工具条"
     ],
     "bugfix": [
-      "3.修复一直bug"
+      "2.修复已知bug"
     ]
   }
 }
