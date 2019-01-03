@@ -1,16 +1,15 @@
 {
-  "last": "0918",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDNfMTQzMTU3Cg.zip",
-  "md5":"5307864d4cd7ecce57dc3681bea4300a",
-  "sha1":"86755cccb0e63c5e2a37e792eaedc9234ed5fe46",
-  "0918": {
-    "version": "0.9.18",
+  "last": "0919",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDNfMTcxMTQ3Cg.zip",
+  "md5":"915743cb3921509760fbab2931b8da8d",
+  "sha1":"dc955ea15a82b4a43e0a1ba67d6aeea51b3cca58",
+  "0919": {
+    "version": "0.9.19",
     "feature": [
-      "1.替换图标",
-      "2.功能页面逻辑"
+      "1.UI界面修改"
     ],
     "bugfix": [
-      "3.解决已知bug"
+      "2.修复已知bug"
     ]
   }
 }
