@@ -1,14 +1,15 @@
 {
-  "last": "0924",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTQzODM1Cg.zip",
-  "md5":"6ea72b4052fbd1e3b0acdd2492b857f9",
-  "sha1":"38924d546ce1402291b4cf204eac6d8b04bb107e",
-  "0924": {
-    "version": "0.9.24",
+  "last": "0925",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTU1MjI5Cg.zip",
+  "md5":"f50e62b879936df493a48de571f34da6",
+  "sha1":"2cd70bd8c876121c7bf68ff9c16d22698f96869a",
+  "0925": {
+    "version": "0.9.25",
     "feature": [
+      "1.添加边框"
     ],
     "bugfix": [
-      "1.更新n分享文件"
+      "2.修复已知bug"
     ]
   }
 }
