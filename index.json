@@ -1,12 +1,11 @@
 {
-  "last": "0920",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTEzMTM5Cg.zip",
-  "md5":"5452f48ebf4d680541234dbe0130f8ae",
-  "sha1":"80816b9ac6b5e47cb598b44fbedad13535afcb54",
-  "0920": {
-    "version": "0.9.20",
+  "last": "0921",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTEzODQzCg.zip",
+  "md5":"956e2118b21a293a52f06fb26ad05407",
+  "sha1":"3d1660b19eea2b4a84c4283f88eb1c136a64af84",
+  "0921": {
+    "version": "0.9.21",
     "feature": [
-      "1.1、增加缩略图"
     ],
     "bugfix": [
     ]
