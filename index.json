@@ -1,13 +1,15 @@
 {
-  "last": "0929",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTkxNzUzCg.zip",
-  "md5":"5f93f2f494255d206baf3155b3a18df8",
-  "sha1":"952309cbd0b026f41ecdb575631992250fb60e6b",
-  "0929": {
-    "version": "0.9.29",
+  "last": "0930",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTk1MjAxCg.zip",
+  "md5":"755fca90ae006686da175db5be2bc1b5",
+  "sha1":"4e4e2c88c6dc18b205e49e1208acb3c873c173aa",
+  "0930": {
+    "version": "0.9.30",
     "feature": [
+      "1.添加快捷键"
     ],
     "bugfix": [
+      "2.修复已知bug"
     ]
   }
 }
