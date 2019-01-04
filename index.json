@@ -1,10 +1,10 @@
 {
-  "last": "0922",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTE0OTQ5Cg.zip",
-  "md5":"a3cb0c333710384e69fd377c2d34bbab",
-  "sha1":"da0b26576e83d8bedee109a970b1a71a58f9f1b6",
-  "0922": {
-    "version": "0.9.22",
+  "last": "0923",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTIwMjU3Cg.zip",
+  "md5":"5a070cd955d6856073ee7a32a42e9688",
+  "sha1":"dad33717f1eae5894712757657f8ecfc0643b2c4",
+  "0923": {
+    "version": "0.9.23",
     "feature": [
     ],
     "bugfix": [
