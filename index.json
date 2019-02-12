@@ -1,12 +1,12 @@
 {
-  "last": "0100",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTJfMTYxMjU0Cg.zip",
-  "md5":"f92ced70d8ce508fb4cf3c4e39a25f8f",
-  "sha1":"6b2bd978e472e0289edc2793aa0ff02be9d2cf4b",
-  "0100": {
-    "version": "0.10.0",
+  "last": "0101",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTJfMTYzOTM4Cg.zip",
+  "md5":"61a5c3f27c5847e331f10e0a49151734",
+  "sha1":"393452844ba1ca72581cce0ff121b89e1d52d854",
+  "0101": {
+    "version": "0.10.1",
     "feature": [
-      "1.合并画板切图"
+      "1.添加遮罩"
     ],
     "bugfix": [
       "2.修复bug"
