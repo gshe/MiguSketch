@@ -1,15 +1,15 @@
 {
-  "last": "0930",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAxMDRfMTk1MjAxCg.zip",
-  "md5":"755fca90ae006686da175db5be2bc1b5",
-  "sha1":"4e4e2c88c6dc18b205e49e1208acb3c873c173aa",
-  "0930": {
-    "version": "0.9.30",
+  "last": "0931",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTJfMTYwMjI3Cg.zip",
+  "md5":"34008db8d60ce78a955762d10d4fb286",
+  "sha1":"78e8ecf538ea4dbd091f4bc11db80e16250f52e8",
+  "0931": {
+    "version": "0.9.31",
     "feature": [
-      "1.添加快捷键"
+      "1.合并画板功能"
     ],
     "bugfix": [
-      "2.修复已知bug"
+      "2.修复bug"
     ]
   }
 }
