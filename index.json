@@ -1,12 +1,12 @@
 {
-  "last": "0102",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTRfMTA0MTA1Cg.zip",
-  "md5":"ee262a8dcbe090487c904c2ce7f17960",
-  "sha1":"24ab9ef9d62ca226b25bc7479aea528105744a2a",
-  "0102": {
-    "version": "0.10.2",
+  "last": "0103",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTRfMTEyMTU0Cg.zip",
+  "md5":"f34392e13bac24da8f460d305d886bf4",
+  "sha1":"b86a157b187d5228f5c29c5f974c8cee7abad976",
+  "0103": {
+    "version": "0.10.3",
     "feature": [
-      "1.Icon拖拽逻辑"
+      "1.新的Icon库"
     ],
     "bugfix": [
       "2.修复bug"
