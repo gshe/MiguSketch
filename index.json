@@ -1,13 +1,15 @@
 {
-  "last": "0108",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTYyOTU3Cg.zip",
-  "md5":"2724e6c4cb69c44a59223fbcfb984522",
-  "sha1":"daf12ebe7c550ac66bd94b7ad41b5b2488901d84",
-  "0108": {
-    "version": "0.10.8",
+  "last": "0109",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTcyMzMwCg.zip",
+  "md5":"3629ff963e493712443f8cdab5dcc968",
+  "sha1":"5a9b627c972d0e9c9641627b0cc6cee273a40283",
+  "0109": {
+    "version": "0.10.9",
     "feature": [
+      "1.新的Icon库"
     ],
     "bugfix": [
+      "2.修复文本框焦点问题"
     ]
   }
 }
