@@ -1,15 +1,13 @@
 {
-  "last": "0107",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTU0MjQxCg.zip",
-  "md5":"e59181176635a8b6e2fcb4475857b085",
-  "sha1":"173843ddd1661be697bc98d3d1ba269e64974622",
-  "0107": {
-    "version": "0.10.7",
+  "last": "0108",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTYyOTU3Cg.zip",
+  "md5":"2724e6c4cb69c44a59223fbcfb984522",
+  "sha1":"daf12ebe7c550ac66bd94b7ad41b5b2488901d84",
+  "0108": {
+    "version": "0.10.8",
     "feature": [
-      "1.添加加载动画"
     ],
     "bugfix": [
-      "2.修复bug"
     ]
   }
 }
