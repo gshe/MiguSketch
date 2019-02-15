@@ -1,12 +1,12 @@
 {
-  "last": "0106",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTUxNjI0Cg.zip",
-  "md5":"97f5f2e8b3b3d4dfe21d18e464e24ecb",
-  "sha1":"d362d9f2bb1074afab9f8b48775b786f9ee264c5",
-  "0106": {
-    "version": "0.10.6",
+  "last": "0107",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTU0MjQxCg.zip",
+  "md5":"e59181176635a8b6e2fcb4475857b085",
+  "sha1":"173843ddd1661be697bc98d3d1ba269e64974622",
+  "0107": {
+    "version": "0.10.7",
     "feature": [
-      "1.Icon选择状态"
+      "1.添加加载动画"
     ],
     "bugfix": [
       "2.修复bug"
