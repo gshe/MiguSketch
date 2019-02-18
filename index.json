@@ -1,12 +1,12 @@
 {
-  "last": "01010",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTVfMTkwOTE0Cg.zip",
-  "md5":"3a60aa3ad37c4b99841497affed3ade0",
-  "sha1":"9d15edfb0c923def7998dfb796ab8b9ffb698225",
-  "01010": {
-    "version": "0.10.10",
+  "last": "01011",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMThfMTUzMjExCg.zip",
+  "md5":"be08d803d1b898aa78456f7865166b01",
+  "sha1":"612966fb2b1885713c94e880873d755e757b0113",
+  "01011": {
+    "version": "0.10.11",
     "feature": [
-      "1.Icon颜色替换"
+      "1.UI界面微调"
     ],
     "bugfix": [
       "2.修复bug"
