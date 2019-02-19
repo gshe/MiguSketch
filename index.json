@@ -1,10 +1,10 @@
 {
-  "last": "01012",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTlfMTUzNjM5Cg.zip",
-  "md5":"f0c620324502f0e81adb4867babcf755",
-  "sha1":"b94e4c96f4653d6bc733607e6d32c5327233f6c9",
-  "01012": {
-    "version": "0.10.12",
+  "last": "01013",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTlfMTU0NjAyCg.zip",
+  "md5":"2b1a9c091f533226581da466bd48b4c2",
+  "sha1":"9a710331848fd02fed256719c13461013c82668b",
+  "01013": {
+    "version": "0.10.13",
     "feature": [
       "1.连线功能"
     ],
