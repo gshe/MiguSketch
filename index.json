@@ -1,12 +1,12 @@
 {
-  "last": "01011",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMThfMTUzMjExCg.zip",
-  "md5":"be08d803d1b898aa78456f7865166b01",
-  "sha1":"612966fb2b1885713c94e880873d755e757b0113",
-  "01011": {
-    "version": "0.10.11",
+  "last": "01012",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTlfMTUzNjM5Cg.zip",
+  "md5":"f0c620324502f0e81adb4867babcf755",
+  "sha1":"b94e4c96f4653d6bc733607e6d32c5327233f6c9",
+  "01012": {
+    "version": "0.10.12",
     "feature": [
-      "1.UI界面微调"
+      "1.连线功能"
     ],
     "bugfix": [
       "2.修复bug"
