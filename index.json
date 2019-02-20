@@ -1,12 +1,12 @@
 {
-  "last": "01013",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMTlfMTU0NjAyCg.zip",
-  "md5":"2b1a9c091f533226581da466bd48b4c2",
-  "sha1":"9a710331848fd02fed256719c13461013c82668b",
-  "01013": {
-    "version": "0.10.13",
+  "last": "01014",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjBfMTYwMzE4Cg.zip",
+  "md5":"c5c6e545f60ee1cce9a7e6d5bcdb9081",
+  "sha1":"c02a309ecec8b45b7385cfd3bfb13c444b3f9ed2",
+  "01014": {
+    "version": "0.10.14",
     "feature": [
-      "1.连线功能"
+      "1.连线与描述"
     ],
     "bugfix": [
       "2.修复bug"
