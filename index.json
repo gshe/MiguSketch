@@ -1,12 +1,12 @@
 {
-  "last": "01016",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjFfMTY0MjQ5Cg.zip",
-  "md5":"1f700845ba3c5ba73289013d10e25e6a",
-  "sha1":"964eb498a85ebfaddd0bbe3d1d197f36cbc8b5b3",
-  "01016": {
-    "version": "0.10.16",
+  "last": "01017",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjFfMTkzMTU1Cg.zip",
+  "md5":"eabb97d64cd622b0f31763be927af2ca",
+  "sha1":"801681d944170d9ffebd0b7058048f598a3bc41e",
+  "01017": {
+    "version": "0.10.17",
     "feature": [
-      "1.水滴效果"
+      "1.标记功能"
     ],
     "bugfix": [
       "2.修复bug"
