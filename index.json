@@ -1,10 +1,10 @@
 {
-  "last": "01015",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjFfMTYxMjAxCg.zip",
-  "md5":"6f31db2471f3a637bfd6c62a628021c3",
-  "sha1":"60258bb04443d83ea4864251f57eadf11e54378d",
-  "01015": {
-    "version": "0.10.15",
+  "last": "01016",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjFfMTY0MjQ5Cg.zip",
+  "md5":"1f700845ba3c5ba73289013d10e25e6a",
+  "sha1":"964eb498a85ebfaddd0bbe3d1d197f36cbc8b5b3",
+  "01016": {
+    "version": "0.10.16",
     "feature": [
       "1.水滴效果"
     ],
