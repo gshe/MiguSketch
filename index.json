@@ -1,12 +1,12 @@
 {
-  "last": "01017",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjFfMTkzMTU1Cg.zip",
-  "md5":"eabb97d64cd622b0f31763be927af2ca",
-  "sha1":"801681d944170d9ffebd0b7058048f598a3bc41e",
-  "01017": {
-    "version": "0.10.17",
+  "last": "01018",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjJfMTU0MzQxCg.zip",
+  "md5":"47542c7b1cbe91780257a6228e629111",
+  "sha1":"138c732e430522fb69cf262225f4071893d54b4f",
+  "01018": {
+    "version": "0.10.18",
     "feature": [
-      "1.标记功能"
+      "1.高保真"
     ],
     "bugfix": [
       "2.修复bug"
