@@ -1,10 +1,10 @@
 {
-  "last": "01018",
-  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjJfMTU0MzQxCg.zip",
-  "md5":"47542c7b1cbe91780257a6228e629111",
-  "sha1":"138c732e430522fb69cf262225f4071893d54b4f",
-  "01018": {
-    "version": "0.10.18",
+  "last": "01019",
+  "url": "https://meeting.cmread.com/a/file/download/MjAxOTAyMjJfMTYwNDM3Cg.zip",
+  "md5":"6a9e24e7508fc84177e789d8e2203687",
+  "sha1":"8c6b2c3a32d9e9476ceffdf4c2032fc5feb52d73",
+  "01019": {
+    "version": "0.10.19",
     "feature": [
       "1.高保真"
     ],
