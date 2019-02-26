@@ -1,12 +1,12 @@
 {
-  "last": "0120",
-  "url": "https://meeting.cmread.com/a/file/download/9C5FE215-A385-44CD-B4D8-DFD716237C2D.zip",
-  "md5":"ef2d9248a9faad10cc68886c0e04287f",
-  "sha1":"173a37f0fc8c5b9a24d97f5eff5bb442fefe09c4",
-  "0120": {
-    "version": "0.12.0",
+  "last": "0121",
+  "url": "https://meeting.cmread.com/a/file/download/6DB34423-7DEB-4A5F-B625-D6ECDD453F63.zip",
+  "md5":"f730898d69ccf7e1fc86bf5b0c1d2744",
+  "sha1":"0473b3d0c13a9583c256be02db57e353bf7f4337",
+  "0121": {
+    "version": "0.12.1",
     "feature": [
-      "1.占位符"
+      "1.替换组件图标"
     ],
     "bugfix": [
       "2.修复bug"
