@@ -1,12 +1,12 @@
 {
-  "last": "0112",
-  "url": "https://meeting.cmread.com/a/file/download/C41CB309-3FDD-4639-BD8D-6A2E87009B44.zip",
-  "md5":"d72be5a09a2b8af6d7cf8b58ddae06aa",
-  "sha1":"33eb83f60f9f683f4d52f0ce7ef6fc99da4c1b28",
-  "0112": {
-    "version": "0.11.2",
+  "last": "0113",
+  "url": "https://gshe.github.io/MiguSketchRelease/release/C96E6BF6-7C43-4229-B02E-CFB345DDB5CC.zip",
+  "md5":"dba4267ba1ac0a582fad63d5d0c3d0e8",
+  "sha1":"359a68c01ac074b73740c013d2fb2449fb280b9e",
+  "0113": {
+    "version": "0.11.3",
     "feature": [
-      "1.测试"
+      "1.测试2"
     ],
     "bugfix": [
       "2.修复bug"
