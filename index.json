@@ -1,12 +1,12 @@
 {
-  "last": "0113",
-  "url": "https://gshe.github.io/MiguSketchRelease/release/C96E6BF6-7C43-4229-B02E-CFB345DDB5CC.zip",
-  "md5":"dba4267ba1ac0a582fad63d5d0c3d0e8",
-  "sha1":"359a68c01ac074b73740c013d2fb2449fb280b9e",
-  "0113": {
-    "version": "0.11.3",
+  "last": "0116",
+  "url": "https://gshe.github.io/MiguSketchRelease/release/C440A533-3820-491D-8252-C7106C04B03D.zip",
+  "md5":"ba1307a732a8a8d54d176a1ccca8a3be",
+  "sha1":"bf99aa1e3ba4ebd1d4d24d09ff8bfebb93065c9b",
+  "0116": {
+    "version": "0.11.6",
     "feature": [
-      "1.测试2"
+      "1.测试5"
     ],
     "bugfix": [
       "2.修复bug"
