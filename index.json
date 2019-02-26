@@ -1,12 +1,12 @@
 {
-  "last": "0116",
-  "url": "https://gshe.github.io/MiguSketchRelease/release/C440A533-3820-491D-8252-C7106C04B03D.zip",
-  "md5":"ba1307a732a8a8d54d176a1ccca8a3be",
-  "sha1":"bf99aa1e3ba4ebd1d4d24d09ff8bfebb93065c9b",
-  "0116": {
-    "version": "0.11.6",
+  "last": "0117",
+  "url": "https://meeting.cmread.com/a/file/download/BF2E2D1B-7DBF-499A-AC24-C625F4FC532D.zip",
+  "md5":"217004c9772db9af246160f1ec62375f",
+  "sha1":"653300fdf572d0bd2a0134fcafb9625d07ea0707",
+  "0117": {
+    "version": "0.11.7",
     "feature": [
-      "1.测试5"
+      "1.字体颜色替换"
     ],
     "bugfix": [
       "2.修复bug"
