@@ -1,12 +1,12 @@
 {
-  "last": "0125",
-  "url": "https://meeting.cmread.com/a/file/download/BC593E66-43C8-4542-A895-2C95FC6C20F5.zip",
-  "md5":"d9eefd4b9c9dd7135f4cf2266a4bf281",
-  "sha1":"ab49aa243e2578b48e3ab975e391e2476e0d3e39",
-  "0125": {
-    "version": "0.12.5",
+  "last": "0126",
+  "url": "https://meeting.cmread.com/a/file/download/A39AA68C-07FE-48B5-AE07-2EED40AA3262.zip",
+  "md5":"09c1fd58a91a820ab311a849490beba4",
+  "sha1":"c7e22cb8ce1b71adead12eea5ea9301f6513d03b",
+  "0126": {
+    "version": "0.12.6",
     "feature": [
-      "1.替换图标"
+      "1.界面调整"
     ],
     "bugfix": [
       "2.修复bug"
