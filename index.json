@@ -1,12 +1,12 @@
 {
-  "last": "01212",
-  "url": "https://meeting.cmread.com/a/file/download/74A0D916-8751-4483-9600-7C7085C43EFC.zip",
-  "md5":"f2f97984cf0dcdac997a484aded5a98f",
-  "sha1":"33bbfca24984585fa9fecc023c3fe67311388148",
-  "01212": {
-    "version": "0.12.12",
+  "last": "01213",
+  "url": "https://meeting.cmread.com/a/file/download/E66DEA90-3A28-4FAE-9C43-19C72355D2EB.zip",
+  "md5":"366eccbb89b5e91877bb8aec7e774c80",
+  "sha1":"e24a5b0ac8b72bd9f98638791ba151fdf1657400",
+  "01213": {
+    "version": "0.12.13",
     "feature": [
-      "1.如何升级视频"
+      "1.更新UI"
     ],
     "bugfix": [
       "2.修复bug"
