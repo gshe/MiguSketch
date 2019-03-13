@@ -1,12 +1,12 @@
 {
-  "last": "01213",
-  "url": "https://meeting.cmread.com/a/file/download/E66DEA90-3A28-4FAE-9C43-19C72355D2EB.zip",
-  "md5":"366eccbb89b5e91877bb8aec7e774c80",
-  "sha1":"e24a5b0ac8b72bd9f98638791ba151fdf1657400",
-  "01213": {
-    "version": "0.12.13",
+  "last": "01214",
+  "url": "https://meeting.cmread.com/a/file/download/DE9EDFCF-BDEE-4065-BFA6-78736E74B427.zip",
+  "md5":"14f275c4d2817d591fbe5abdaa9d028d",
+  "sha1":"c2c199a42fb95635dbe3b94f2b3be161e808b7e5",
+  "01214": {
+    "version": "0.12.14",
     "feature": [
-      "1.更新UI"
+      "1.颜色库"
     ],
     "bugfix": [
       "2.修复bug"
