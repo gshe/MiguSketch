@@ -1,12 +1,12 @@
 {
-  "last": "01217",
-  "url": "https://meeting.cmread.com/a/file/download/9FE03879-EE13-4BF1-A5C2-5A0D9F42E502.zip",
-  "md5":"7965790fe413178f987e623bc594640f",
-  "sha1":"2c77f13468567806c3fe9acc42691c1aad3610e0",
-  "01217": {
-    "version": "0.12.17",
+  "last": "01218",
+  "url": "https://meeting.cmread.com/a/file/download/E1CC8B73-6C6E-4962-998A-5E74A762E946.zip",
+  "md5":"b6c9f4444545d533493f7457c8c0a8da",
+  "sha1":"26d940d9f9413bae98abcfc177feda4f1a8ce612",
+  "01218": {
+    "version": "0.12.18",
     "feature": [
-      "1.功能面板"
+      "1.图片填充"
     ],
     "bugfix": [
       "2.修复bug"
