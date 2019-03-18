@@ -1,15 +1,15 @@
 {
-  "last": "01218",
-  "url": "https://meeting.cmread.com/a/file/download/E1CC8B73-6C6E-4962-998A-5E74A762E946.zip",
-  "md5":"b6c9f4444545d533493f7457c8c0a8da",
-  "sha1":"26d940d9f9413bae98abcfc177feda4f1a8ce612",
-  "01218": {
-    "version": "0.12.18",
+  "last": "01219",
+  "url": "https://meeting.cmread.com/a/file/download/11C566FC-95EE-465D-82F7-A5A0F198C6C2.zip",
+  "md5":"ea5f46140ce3f5363e2550c5769fd590",
+  "sha1":"030198aee4fa8883ef8a26d83a87511fdc86699d",
+  "01219": {
+    "version": "0.12.19",
     "feature": [
       "1.图片填充"
     ],
     "bugfix": [
-      "2.修复bug"
+      "2.修复邮件填充问题"
     ]
   }
 }
