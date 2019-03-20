@@ -1,15 +1,15 @@
 {
-  "last": "0136",
-  "url": "https://meeting.cmread.com/a/file/download/32E9119E-435E-44AF-A97A-F1E63A62DB79.zip",
-  "md5":"530f2fa84d9562ed824534d156be4324",
-  "sha1":"b42cca1aee84d1db738e5502dd0d00e07a902a66",
-  "0136": {
-    "version": "0.13.6",
+  "last": "0137",
+  "url": "https://meeting.cmread.com/a/file/download/760188EE-AEA0-4C21-A4BF-7FC3E79AC42D.zip",
+  "md5":"d10788c5b3cae260906e57fe0950ce47",
+  "sha1":"a6baf735634241be52572a456236674a1109dcf5",
+  "0137": {
+    "version": "0.13.7",
     "feature": [
       "1.新页面"
     ],
     "bugfix": [
-      "2.修复已知bug"
+      "2.修复bug"
     ]
   }
 }
