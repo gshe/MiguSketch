@@ -5,8 +5,8 @@
         <link>https://gshe.github.io/MiguSketch/appcast</link>
         <description>gshe</description>
          <item>
-            <title>0.13.16</title>
-            <enclosure url="https://meeting.cmread.com/a/file/download/F3D54B87-56F1-4280-8862-6D4EE67B869F.zip" sparkle:version="0.13.16" type="application/octet-stream"/>
+            <title>0.13.17</title>
+            <enclosure url="https://meeting.cmread.com/a/file/download/D2637210-7256-4EB0-A0E6-593BD6897C50.zip" sparkle:version="0.13.17" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
