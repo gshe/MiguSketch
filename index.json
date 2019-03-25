@@ -1,12 +1,12 @@
 {
-  "last": "01318",
-  "url": "https://meeting.cmread.com/a/file/download/4993E5A8-4B5A-44DA-9822-F95709A84632.zip",
-  "md5":"eef401026094baae0b260d08ea343e40",
-  "sha1":"38f61ffbc78e2e352c5ab653f2f93f74be418e22",
-  "01318": {
-    "version": "0.13.18",
+  "last": "01319",
+  "url": "https://meeting.cmread.com/a/file/download/30B9675F-B77C-4D2F-83A2-215EE031A275.zip",
+  "md5":"c46d371ebb994dcd4bc0c3a943862b3b",
+  "sha1":"201b096b1f3f5f42614181809a6afbdcf30fc381",
+  "01319": {
+    "version": "0.13.19",
     "feature": [
-      "1.界面适配"
+      "1.页面重构"
     ],
     "bugfix": [
       "2.修复bug"
