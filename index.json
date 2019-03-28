@@ -1,15 +1,15 @@
 {
-  "last": "0154",
-  "url": "https://meeting.cmread.com/a/file/download/63D6A1E2-7133-4E01-A54D-96476CB57341.zip",
-  "md5":"782ab802d0d501e6141a56d26fe1fd72",
-  "sha1":"c61f6dafc417e716d46bf6b5982cfd084fed7a27",
-  "0154": {
-    "version": "0.15.4",
+  "last": "0155",
+  "url": "https://meeting.cmread.com/a/file/download/153318FC-8476-47BF-80BF-53DCE4410D66.zip",
+  "md5":"ee67d5ebcc2784af44c2755a379ced6e",
+  "sha1":"376e85e6af6e6841b55e5daebeae17517cf66a61",
+  "0155": {
+    "version": "0.15.5",
     "feature": [
       "1.新页面"
     ],
     "bugfix": [
-      "2.修复bug"
+      "2.修复颜色块不正确问题"
     ]
   }
 }
