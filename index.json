@@ -1,15 +1,15 @@
 {
-  "last": "01512",
-  "url": "https://meeting.cmread.com/a/file/download/06FF3927-72C3-465B-8D40-C4B86C726214.zip",
-  "md5":"5090c95c0cd6588fc9a3df33af006846",
-  "sha1":"553b8522696d29450b9adfc7503d28bba883496e",
-  "01512": {
-    "version": "0.15.12",
+  "last": "01513",
+  "url": "https://meeting.cmread.com/a/file/download/60CDB6D6-7188-4268-9D4E-851771954FB8.zip",
+  "md5":"19ac3a737ecd2a87ef43d148d21aa9cd",
+  "sha1":"fb139d1566ae97d0df45e5aa64094718fffa2c48",
+  "01513": {
+    "version": "0.15.13",
     "feature": [
       "1.新页面"
     ],
     "bugfix": [
-      "2.修复合并画板问题"
+      "2.修复一直bug"
     ]
   }
 }
