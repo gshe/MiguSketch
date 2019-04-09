@@ -1,12 +1,12 @@
 {
-  "last": "01517",
-  "url": "https://meeting.cmread.com/a/file/download/E1772615-40E8-4FF0-AE92-972348F25CCD.zip",
-  "md5":"f1d5a0eda3632f9849edaa974987cc73",
-  "sha1":"ce736bb37bea08dfdc8ed775cb5d58b6f8f76ec9",
-  "01517": {
-    "version": "0.15.17",
+  "last": "0160",
+  "url": "https://meeting.cmread.com/a/file/download/0F9CD4AE-9D23-44A2-9331-62E2FFAD1948.zip",
+  "md5":"3dbe908dbd7b8d2b64b9ce6c30659e3d",
+  "sha1":"48e3e452fc3bc540986e5aa3489c39510c9725bc",
+  "0160": {
+    "version": "0.16.0",
     "feature": [
-      "1.黑色主题适配"
+      "1.功能调整"
     ],
     "bugfix": [
       "2.修复bug"
