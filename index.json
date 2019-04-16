@@ -1,15 +1,15 @@
 {
-  "last": "0161",
-  "url": "https://meeting.cmread.com/a/file/download/420437E9-E729-4E7C-B374-1178A5592003.zip",
-  "md5":"d705e828d3b67b3d55f9e83459167fb6",
-  "sha1":"c71d72b9537df70911cf5319ff8b471dc3ca4db2",
-  "0161": {
-    "version": "0.16.1",
+  "last": "0170",
+  "url": "https://meeting.cmread.com/a/file/download/5BBE5C98-88F0-423D-ACAD-8885ACFF20CF.zip",
+  "md5":"7ca0e5f12958e9f6bdbd66c1228559b0",
+  "sha1":"daf9eb617517786d078ff97b6acdd19212585888",
+  "0170": {
+    "version": "0.17.0",
     "feature": [
-      "1.新页面样式"
+      "1.颜色替换条件"
     ],
     "bugfix": [
-      "2.颜色替换逻辑修改"
+      "2.修复bug"
     ]
   }
 }
