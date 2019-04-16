@@ -1,10 +1,10 @@
 {
-  "last": "0170",
-  "url": "https://meeting.cmread.com/a/file/download/5BBE5C98-88F0-423D-ACAD-8885ACFF20CF.zip",
-  "md5":"7ca0e5f12958e9f6bdbd66c1228559b0",
-  "sha1":"daf9eb617517786d078ff97b6acdd19212585888",
-  "0170": {
-    "version": "0.17.0",
+  "last": "0171",
+  "url": "https://meeting.cmread.com/a/file/download/2429A80B-1AD1-4807-A447-2786EB4F0F25.zip",
+  "md5":"8d6a355fb40111cbf4d498f1ce932ddd",
+  "sha1":"e36c4e6d3de17a96995897d8c8acec93fa0cc070",
+  "0171": {
+    "version": "0.17.1",
     "feature": [
       "1.颜色替换条件"
     ],
