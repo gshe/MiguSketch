@@ -1,12 +1,12 @@
 {
-  "last": "0171",
-  "url": "https://meeting.cmread.com/a/file/download/2429A80B-1AD1-4807-A447-2786EB4F0F25.zip",
-  "md5":"8d6a355fb40111cbf4d498f1ce932ddd",
-  "sha1":"e36c4e6d3de17a96995897d8c8acec93fa0cc070",
-  "0171": {
-    "version": "0.17.1",
+  "last": "0172",
+  "url": "https://meeting.cmread.com/a/file/download/4028CC33-C3AB-469E-B358-EDDF60C71B0F.zip",
+  "md5":"166f7492d5448e85a64b2d2f46c54dc4",
+  "sha1":"9515a4c1eb277363e8626ceed810a906047769e7",
+  "0172": {
+    "version": "0.17.2",
     "feature": [
-      "1.颜色替换条件"
+      "1.数据填充"
     ],
     "bugfix": [
       "2.修复bug"
