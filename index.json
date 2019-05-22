@@ -1,15 +1,16 @@
 {
-  "last": "100",
-  "url": "https://meeting.cmread.com/a/file/download/6652108B-A473-4DFE-889B-1D413CE87859.zip",
-  "md5":"617c86ff611f2827f3e858ac53df8cb8",
-  "sha1":"ce53ad73ae37e38a21e64292a1daaede45a5f381",
-  "100": {
-    "version": "1.0.0",
+  "last": "101",
+  "url": "https://meeting.cmread.com/a/file/download/AF6ED574-3146-423A-9834-402DE0746CF3.zip",
+  "md5":"4ee542259c98d2865adff7cf870713d3",
+  "sha1":"e2d8aa9b16ae587bcf3f7826eeaa0cc60a043b4a",
+  "101": {
+    "version": "1.0.1",
     "feature": [
-      "1.版本正式发布"
+      "1.优化画板排序设置",
+      "2.标记跟随"
     ],
     "bugfix": [
-      "2.修复已知bug"
+      "3.修复已知bug"
     ]
   }
 }
