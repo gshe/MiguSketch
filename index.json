@@ -1,16 +1,15 @@
 {
-  "last": "101",
-  "url": "https://meeting.cmread.com/a/file/download/AF6ED574-3146-423A-9834-402DE0746CF3.zip",
-  "md5":"4ee542259c98d2865adff7cf870713d3",
-  "sha1":"e2d8aa9b16ae587bcf3f7826eeaa0cc60a043b4a",
-  "101": {
-    "version": "1.0.1",
+  "last": "102",
+  "url": "https://meeting.cmread.com/a/file/download/D434F344-506F-4598-9CC5-00BD277192E9.zip",
+  "md5":"23341429aa506b177dc154fba7217cdb",
+  "sha1":"73f5d00e721a113b28ddbb1b5f9dfcc2ededf43e",
+  "102": {
+    "version": "1.0.2",
     "feature": [
-      "1.优化画板排序设置",
-      "2.标记跟随"
+      "1.iCON资源修改"
     ],
     "bugfix": [
-      "3.修复已知bug"
+      "2.修复bug"
     ]
   }
 }
