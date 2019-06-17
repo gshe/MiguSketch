@@ -1,12 +1,12 @@
 {
   "last": "103",
-  "url": "https://meeting.cmread.com/a/file/download/B7C16A09-D376-4BD2-AB97-4C52BD1AB98B.zip",
-  "md5":"57264bc48515ac3861165eaeac91e629",
-  "sha1":"e120cfe3d1928067aae905ad33057b3109866bb3",
+  "url": "https://meeting.cmread.com/a/file/download/EE9E15DB-8EF3-484F-A36F-352F173AF4FA.zip",
+  "md5":"811d8f5f813f46490d4a37af6b208cc7",
+  "sha1":"5e8723cceba1897307ffad005d9108833a2e3341",
   "103": {
     "version": "1.0.3",
     "feature": [
-      "1.ICON修改"
+      "1.新页面样式"
     ],
     "bugfix": [
       "2.修复bug"
