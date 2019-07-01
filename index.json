@@ -1,15 +1,18 @@
 {
-  "last": "104",
-  "url": "https://record.cmread.com:18443/puzzle/download/C6E29735-7401-4549-851B-63228769F122.zip",
-  "md5":"f3ba6c4ed3062e7bf4cf96c58f45211a",
-  "sha1":"979507172c73991bcbf8d7a58fbf8a0b154a6094",
-  "104": {
-    "version": "1.0.4",
+  "last": "105",
+  "url": "https://record.cmread.com:18443/puzzle/download/60A15CED-340B-42EE-8F94-9F6E84616E9E.zip",
+  "md5":"9ee37a3804c90b348fda9eff5bcfbb52",
+  "sha1":"e4a783911f8dbc04d10674e1b29b2933633eaf76",
+  "105": {
+    "version": "1.0.5",
     "feature": [
-      "1.新页面样式"
+      "1.书籍简介填充",
+      "2.作者简介填充",
+      "3.评论填充",
+      "4.目录填充"
     ],
     "bugfix": [
-      "2.修复无法播放帮组的bug"
+      "5.修复bug"
     ]
   }
 }
