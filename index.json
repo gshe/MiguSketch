@@ -1,18 +1,15 @@
 {
-  "last": "105",
-  "url": "https://record.cmread.com:18443/puzzle/download/60A15CED-340B-42EE-8F94-9F6E84616E9E.zip",
-  "md5":"9ee37a3804c90b348fda9eff5bcfbb52",
-  "sha1":"e4a783911f8dbc04d10674e1b29b2933633eaf76",
-  "105": {
-    "version": "1.0.5",
+  "last": "106",
+  "url": "https://record.cmread.com:18443/puzzle/download/1C935ED7-6FB5-4264-9BD8-831C04BD979A.zip",
+  "md5":"c5fd43eec53196879a6cd299018384b3",
+  "sha1":"9c72325a862538d9a0ef624beda1383fd42be65d",
+  "106": {
+    "version": "1.0.6",
     "feature": [
-      "1.书籍简介填充",
-      "2.作者简介填充",
-      "3.评论填充",
-      "4.目录填充"
+      "1.更多的填充选项"
     ],
     "bugfix": [
-      "5.修复bug"
+      "2.修复颜色替换Crash问题"
     ]
   }
 }
