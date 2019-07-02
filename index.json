@@ -1,15 +1,15 @@
 {
-  "last": "106",
-  "url": "https://record.cmread.com:18443/puzzle/download/1C935ED7-6FB5-4264-9BD8-831C04BD979A.zip",
-  "md5":"c5fd43eec53196879a6cd299018384b3",
-  "sha1":"9c72325a862538d9a0ef624beda1383fd42be65d",
-  "106": {
-    "version": "1.0.6",
+  "last": "107",
+  "url": "https://record.cmread.com:18443/puzzle/download/D127464E-2949-4653-99FD-7E6877BFDCE9.zip",
+  "md5":"101ea869acb77e22be4e351638e6e2c9",
+  "sha1":"fa2e2da49fd122836ad2f2979d7405a85356a185",
+  "107": {
+    "version": "1.0.7",
     "feature": [
-      "1.更多的填充选项"
+      "1.连线图层置顶"
     ],
     "bugfix": [
-      "2.修复颜色替换Crash问题"
+      "2.修复已知bug"
     ]
   }
 }
