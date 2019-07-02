@@ -1,15 +1,15 @@
 {
-  "last": "107",
-  "url": "https://record.cmread.com:18443/puzzle/download/D127464E-2949-4653-99FD-7E6877BFDCE9.zip",
-  "md5":"101ea869acb77e22be4e351638e6e2c9",
-  "sha1":"fa2e2da49fd122836ad2f2979d7405a85356a185",
-  "107": {
-    "version": "1.0.7",
+  "last": "108",
+  "url": "https://record.cmread.com:18443/puzzle/download/E95C259E-4178-440A-8DF3-2D93B006FD9A.zip",
+  "md5":"139907885257d0ba043ec9db8d10a1bd",
+  "sha1":"9bc5a328c589ecc04f6687fbe80a24cc68ac277e",
+  "108": {
+    "version": "1.0.8",
     "feature": [
-      "1.连线图层置顶"
+      "1.等间距"
     ],
     "bugfix": [
-      "2.修复已知bug"
+      "2.修复bug"
     ]
   }
 }
