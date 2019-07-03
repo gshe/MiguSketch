@@ -1,15 +1,15 @@
 {
-  "last": "1010",
-  "url": "https://record.cmread.com:18443/puzzle/download/63CD5246-C0D1-40E0-8EB3-3D6856EE98BE.zip",
-  "md5":"353627d24cd70581b7ce419a861d4ddd",
-  "sha1":"2d1a69d53873adc52feeb413e56f39a533bd7813",
-  "1010": {
-    "version": "1.0.10",
+  "last": "1011",
+  "url": "https://record.cmread.com:18443/puzzle/download/E18947A5-EB37-4864-BF02-FAC508834737.zip",
+  "md5":"ebd00e90720065b103e17d48dbbc22b7",
+  "sha1":"f7dd083188e745308c2cb57450cabe016f4d092e",
+  "1011": {
+    "version": "1.0.11",
     "feature": [
       "1.咪咕阅读icon"
     ],
     "bugfix": [
-      "2.修复间隔负数问题"
+      "2.修复icon无法显示问题"
     ]
   }
 }
