@@ -1,15 +1,13 @@
 {
-  "last": "108",
-  "url": "https://record.cmread.com:18443/puzzle/download/E95C259E-4178-440A-8DF3-2D93B006FD9A.zip",
-  "md5":"139907885257d0ba043ec9db8d10a1bd",
-  "sha1":"9bc5a328c589ecc04f6687fbe80a24cc68ac277e",
-  "108": {
-    "version": "1.0.8",
+  "last": "109",
+  "url": "https://record.cmread.com:18443/puzzle/download/4ACFB42A-A4EA-4B4A-8340-99910A8DF843.zip",
+  "md5":"79d93fcceffaa4a5f30f92c9793fe366",
+  "sha1":"5d301a4785e6f0fc6ef58f6569d8317bd9def1f8",
+  "109": {
+    "version": "1.0.9",
     "feature": [
-      "1.等间距"
     ],
     "bugfix": [
-      "2.修复bug"
     ]
   }
 }
