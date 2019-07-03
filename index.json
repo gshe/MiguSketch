@@ -1,15 +1,14 @@
 {
-  "last": "1011",
-  "url": "https://record.cmread.com:18443/puzzle/download/E18947A5-EB37-4864-BF02-FAC508834737.zip",
-  "md5":"ebd00e90720065b103e17d48dbbc22b7",
-  "sha1":"f7dd083188e745308c2cb57450cabe016f4d092e",
-  "1011": {
-    "version": "1.0.11",
+  "last": "1012",
+  "url": "https://record.cmread.com:18443/puzzle/download/093C7C28-C40A-498B-9D84-12311735276A.zip",
+  "md5":"0ef10811ef9343e78cae1eb5e8429809",
+  "sha1":"9c0384bbc8257502d3cc1ca8d76184873bd4ca61",
+  "1012": {
+    "version": "1.0.12",
     "feature": [
       "1.咪咕阅读icon"
     ],
     "bugfix": [
-      "2.修复icon无法显示问题"
     ]
   }
 }
