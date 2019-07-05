@@ -1,14 +1,15 @@
 {
-  "last": "1012",
-  "url": "https://record.cmread.com:18443/puzzle/download/093C7C28-C40A-498B-9D84-12311735276A.zip",
-  "md5":"0ef10811ef9343e78cae1eb5e8429809",
-  "sha1":"9c0384bbc8257502d3cc1ca8d76184873bd4ca61",
-  "1012": {
-    "version": "1.0.12",
+  "last": "1013",
+  "url": "https://record.cmread.com:18443/puzzle/download/695EB77E-3536-4879-807B-1292FDE3B00A.zip",
+  "md5":"23b209b14709a964bf2eb52840810d42",
+  "sha1":"b508708d5106d73087e886e1bcb7e05bb025d328",
+  "1013": {
+    "version": "1.0.13",
     "feature": [
-      "1.咪咕阅读icon"
+      "1.图片黑白效果"
     ],
     "bugfix": [
+      "2.修复bug"
     ]
   }
 }
