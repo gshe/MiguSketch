@@ -1,15 +1,17 @@
 {
-  "last": "1013",
-  "url": "https://record.cmread.com:18443/puzzle/download/695EB77E-3536-4879-807B-1292FDE3B00A.zip",
-  "md5":"23b209b14709a964bf2eb52840810d42",
-  "sha1":"b508708d5106d73087e886e1bcb7e05bb025d328",
-  "1013": {
-    "version": "1.0.13",
+  "last": "110",
+  "url": "https://record.cmread.com:18443/puzzle/download/90E976B6-B65D-4C24-AB48-11AF167A35E4.zip",
+  "md5":"8b7ad9c77ae280b38c204a4d7020dc98",
+  "sha1":"12065de4b3d2a2359881285a9f167127734f1eb6",
+  "110": {
+    "version": "1.1.0",
     "feature": [
-      "1.图片黑白效果"
+      "1.增加书籍简介填充",
+      "2.增加作者简介填充",
+      "3.增加目录填充"
     ],
     "bugfix": [
-      "2.修复bug"
+      "4.修复bug"
     ]
   }
 }
