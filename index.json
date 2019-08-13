@@ -1,10 +1,10 @@
 {
-  "last": "111",
-  "url": "https://record.cmread.com:18443/puzzle/download/D394DA37-E326-4D18-A055-0284415F1DEB.zip",
-  "md5":"641a5a116758e252e57d076af4027f9c",
-  "sha1":"45135f5f5ca6477d1e9ceff2207167f31143acb2",
-  "111": {
-    "version": "1.1.1",
+  "last": "112",
+  "url": "https://record.cmread.com:18443/puzzle/download/2071D594-CE58-4437-89D7-6AE0109E1615.zip",
+  "md5":"f1a87c009096876581305f3491a4dee5",
+  "sha1":"cce8c55e27ac116304d8b1c1b1883cdc01b50af2",
+  "112": {
+    "version": "1.1.2",
     "feature": [
     ],
     "bugfix": [
