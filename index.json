@@ -1,12 +1,12 @@
 {
-  "last": "132",
-  "url": "https://record.cmread.com:18443/puzzle/download/B95EECD3-6099-42AC-ADA9-B04F5CB52BE3.zip",
-  "md5":"2453809d3b2d03e3b6a7d1ea27961753",
-  "sha1":"008140e436439db85e81bb204963fa302d0e88f2",
-  "132": {
-    "version": "1.3.2",
+  "last": "133",
+  "url": "https://record.cmread.com:18443/puzzle/download/E1FFE083-C21B-4280-B204-7A08F7ADC825.zip",
+  "md5":"4c94dbe352ff7f4dd51ddb68d0ac76e4",
+  "sha1":"bb8a230e79beadd3162c3d4a07fd47c402cbbc58",
+  "133": {
+    "version": "1.3.3",
     "feature": [
-      "1.图标搜索"
+      "1.图标上传规则"
     ],
     "bugfix": [
     ]
